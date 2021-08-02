@@ -22,9 +22,10 @@ res.json {
 ```
 
 ## Question
+
 Looking for how to successfully generate the SHA1 hash and use it to post a file to the `https://api.vercel.com/v11/now/files` endpoint.
 
 ## Refs
 
 - https://vercel.com/docs/api#endpoints/deployments/upload-deployment-files
-- https://vercel.com/docs/integrations#webhooks/securing-webhooks
+- https://vercel.com/docs/integrations#webhooks/securing-webhooks (suggestiong from Ismael)
