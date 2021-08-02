@@ -31,7 +31,7 @@ async function sample() {
     'Content-Type': 'application/octet-stream',
   };
 
-  const url = 'https://api.vercel.com/v11/now/files';
+  const url = 'https://api.vercel.com/v2/now/files';
   const res = await http.post(url, file, { headers });
 
   console.log('res.status', res.status);

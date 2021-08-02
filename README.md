@@ -21,7 +21,8 @@ res.json {
 }
 ```
 
-Looking for how to appropriate generate the SHA1 hash and use it to post a file to the `https://api.vercel.com/v11/now/files` endpoint.
+## Question
+Looking for how to successfully generate the SHA1 hash and use it to post a file to the `https://api.vercel.com/v11/now/files` endpoint.
 
 ## Refs
 

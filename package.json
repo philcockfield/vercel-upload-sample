@@ -5,8 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "ts-node -T index.ts",
-    "dev": "yarn start"
+    "start": "ts-node -T index.ts"
   },
   "dependencies": {
     "@platform/http": "^0.14.27",
